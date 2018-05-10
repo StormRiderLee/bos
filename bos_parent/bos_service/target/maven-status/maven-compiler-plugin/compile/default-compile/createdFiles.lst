@@ -1,0 +1,8 @@
+com\hc\bos\service\impl\SubareaServiceImpl.class
+com\hc\bos\service\impl\UserServiceImpl.class
+com\hc\bos\service\StaffService.class
+com\hc\bos\service\impl\StaffServiceImpl.class
+com\hc\bos\service\UserService.class
+com\hc\bos\service\impl\RegionServiceImpl.class
+com\hc\bos\service\SubareaService.class
+com\hc\bos\service\RegionService.class

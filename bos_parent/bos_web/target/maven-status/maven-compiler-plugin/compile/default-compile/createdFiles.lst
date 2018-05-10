@@ -1,0 +1,6 @@
+com\hc\bos\web\action\RegionAction.class
+com\hc\bos\interceptor\BosLoginInterceptor.class
+com\hc\bos\web\action\SubareaAction.class
+com\hc\bos\web\action\UserAction.class
+com\hc\bos\web\action\StaffAction.class
+com\hc\bos\web\action\base\BaseAction.class

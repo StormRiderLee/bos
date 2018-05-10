@@ -1,0 +1,5 @@
+com\hc\bos\utils\BosUtils.class
+com\hc\bos\utils\FastJsonUtil.class
+com\hc\bos\utils\PinYin4jUtils.class
+com\hc\bos\utils\PageBean.class
+com\hc\bos\utils\MD5Utils.class

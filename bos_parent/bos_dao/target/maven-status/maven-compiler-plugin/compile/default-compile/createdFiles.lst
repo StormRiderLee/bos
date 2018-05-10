@@ -1,0 +1,10 @@
+com\hc\bos\dao\UserDao.class
+com\hc\bos\dao\impl\StaffDaoImpl.class
+com\hc\bos\dao\impl\SubareaDaoImpl.class
+com\hc\bos\dao\base\IbaseDao.class
+com\hc\bos\dao\SubareaDao.class
+com\hc\bos\dao\StaffDao.class
+com\hc\bos\dao\base\impl\IbaseDaoImpl.class
+com\hc\bos\dao\impl\RegionDaoImpl.class
+com\hc\bos\dao\RegionDao.class
+com\hc\bos\dao\impl\UserDaoImpl.class
